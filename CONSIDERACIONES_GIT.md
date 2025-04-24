@@ -56,7 +56,9 @@
 ### Bibliografía
 - https://www.youtube.com/watch?v=feLhnvvPbd8
 
-
 ## Automatizar la ejecución de script de Git
 
 ### Pasos para la ejecución
+
+### Consideraciones
+- Los cambios realizado en el equipo debe ser realizado en la rama del usuario o colaborador para el posterior push en el repostorio.
